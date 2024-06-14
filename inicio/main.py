@@ -1,7 +1,7 @@
 # agentes.inicio.main.py
 [mapa1_CENA0]
 #e_gato = {img="https://imgur.com/hOgrOJ5.png", foi=".i.ROOTzz0.0.0", put=1, x=200, y=200, tit="gato",texto="Você encontrou um o gato do jogador de peteca!", cena=".i.CENA0zz0zz0.1.1"}
-e_gato = {img=".i.CN._PISTAS0.7", foi=".i.ROOTzz0.0.0", put=1, x=200, y=200, tit="gato",texto="Você encontrou o gato do jogador de peteca!", cena=".i.CENA0zz0zz0.1.1"}
+e_gato = {img="https://imgur.com/9TkVG9A.png", foi=".i.ROOTzz0.0.0", put=1, x=200, y=200, tit="gato",texto="Você encontrou o gato do jogador de peteca!", cena=".i.CENA0zz0zz0.1.1"}
 Xf = {local=[0,0], img=".i.CN._PISTAS0.4", tit="Isto parece uma Peteca", texto="Eu acho que alguém jogou peteca aqui", foi="i.gato"}
 # Xg = {local=[0,0], img=".i.CN._PISTAS0.7", tit="Um lindo Gatinho!", texto="Acho que o gato estava brincando com a peteca.", foi="i.fer"}
 
